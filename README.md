@@ -1,2 +1,2 @@
-# FirstPCB_Design
+# FirstPCB Design
 An attempt to create my first PCB Design
